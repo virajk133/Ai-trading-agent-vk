@@ -84,15 +84,11 @@ Example chart comparing **strategy returns** vs **actual market returns**.
 
 ### 🧑‍💻 Author
 
-Made by [Your Name](https://github.com/YOUR_USERNAME) as a learning project in Python and trading systems.
+Made by [virajk133](https://github.com/virajk133) as a learning project in Python and trading systems.
 
 ---
 
 ### 🌟 Star This Repo
 
 If you found this helpful, please consider starring ⭐ this repo!
-
----
-
-Let me know if you’d like a **Streamlit UI**, **notebook version**, or help with making a YouTube-style walkthrough from this!
 
