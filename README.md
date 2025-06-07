@@ -1,6 +1,3 @@
-Perfect! Here’s a clean, beginner-friendly yet impressive `README.md` for your AI Trading Bot project, ready to drop into your GitHub repo:
-
----
 
 ## 📈 AI Stock Trading Bot with Backtesting (Python)
 
