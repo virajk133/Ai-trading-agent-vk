@@ -6,8 +6,6 @@ Perfect! Here’s a clean, beginner-friendly yet impressive `README.md` for your
 
 A beginner-friendly AI-powered stock trading agent that uses machine learning and technical indicators to predict buy/sell signals and backtest trading strategies.
 
-![screenshot](https://user-images.githubusercontent.com/yourusername/yourrepo/yourchart.png) <!-- optional image -->
-
 ---
 
 ### 🚀 Features
