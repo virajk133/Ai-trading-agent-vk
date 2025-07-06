@@ -64,7 +64,6 @@ python main.py
 
 Example chart comparing **strategy returns** vs **actual market returns**.
 
-*(Insert screenshot here)*
 
 ---
 
